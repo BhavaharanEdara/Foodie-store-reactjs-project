@@ -45,7 +45,4 @@ function Category({data, setData}){
         
   )
 }
-//${category===activeCategeory ? "text-gray-800 bg-white" : "bg-red-600 text-white"}
-//${category===activeCategeory ? "bg-red-600" : "bg-white" }
-//${category===activeCategeory ? "text-white" : "text-gray-800"}
 export default Category
